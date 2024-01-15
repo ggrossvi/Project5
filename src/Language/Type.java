@@ -1,6 +1,6 @@
-package File142;
+package Language;
 
-enum Type {
+public enum Type {
     COMPILED,
     INTERPRETED,
     SCRIPTING,

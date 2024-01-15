@@ -1,4 +1,4 @@
-package File142;
+package Language;
 
 import java.io.File;
 
@@ -8,6 +8,11 @@ public class LanguageManager {
 
     public LanguageManager(File languageFile) {
         //this.languageFile = languageFile;
+
+//        for() {
+//            Language currentLanguage = new Language();
+//            languages[i] = currentLanguage;
+//        }
     }
 
     public Integer geLanguageCount() {
